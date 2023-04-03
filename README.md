@@ -2,6 +2,9 @@
 
 Web App for CSV data analysis using Open AI, Langchain, and Streamlit
 
+## Project Demo 
+[Streamlit app link](https://asad-ullah-khan1-csvchatbot-hello-guzfr3.streamlit.app/)
+
 ## Project Description
 
 This project is a web application that allows users to upload a CSV data file and interact with a chatbot that can answer questions related to the uploaded data. The application is built using Open AI, Langchain, and Streamlit.
